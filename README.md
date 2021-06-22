@@ -1,1 +1,1 @@
-# pet_project_number_recognition_NN
+neural network for digit recognition using mnist dataset
